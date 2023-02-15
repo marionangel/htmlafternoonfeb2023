@@ -1,0 +1,111 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+    overflow: hidden;
+    background: darkolivegreen;
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 20px;
+    margin: 9px;
+    color: darkseagreen;
+
+}
+li a:hover{
+    background: lemonchiffon;
+}
+th,td{
+    border: 6px double darkolivegreen;
+    padding: 10px;
+    margin: 10px;
+    font-family: "JetBrains Mono";
+    color: darkseagreen;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    color: darkslategrey;
+}
+tr{
+    font-family: RaviPrakash;
+}
+.fruits{
+    border: 2px solid darkolivegreen;
+    background: darkseagreen;
+    color: darkslategrey;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.cars{
+    border: 2px solid darkgray;
+    background: grey;
+    color: lavenderblush;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+}
+.FRUITS{
+    border: 2px solid darkblue;
+    background: lightblue;
+    color: dodgerblue;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+#school{
+    border:3px solid darkslategrey;
+}
+label{
+    color: snow;
+    background: darkslategrey;
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid dimgrey;
+    text-align: center;
+    font-family: MathJax_Script;
+
+}
+input{
+    color: gray;
+    margin: 5px;
+    background: darkseagreen;
+    margin: 15px;
+    padding: 20px;
+    border: 2px solid darkolivegreen;
+    text-align: center;
+    font-family: Chandas;
+
+
+}
+form{
+    background: light ghostwhite;
+}
+body{
+    color: darkseagreen;
+    margin: 3px;
+
+}
+select{
+    color: lightcyan;
+    background: dimgrey;
+    padding: 2px;
+    border: 2px solid dimgrey;
+    margin: 15px;
+}
+textarea{
+    color: darkslategrey;
+    background: darkseagreen;
+    border: 1px solid black;
+}
+h2{
+    color: darkslategrey;
+    font-family: Dhurjati;
+    text-align: center;
+}
+
+
+
